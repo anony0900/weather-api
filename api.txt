@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=delhi&units=matric&appid=7a279d4d80681925c707d5554760857a
